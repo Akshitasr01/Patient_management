@@ -1,0 +1,5 @@
+{"1": {"name": "John Doe", "age": 30, "gender": "Male","city":"Bangalore","height":5.9,"weight":70,"bmi":25.0},
+ "2": {"name": "Jane Smith", "age": 25, "gender": "Female","city":"Mumbai","height":5.5,"weight":60,"bmi":24.0},
+ "3": {"name": "Alice Johnson", "age": 40, "gender": "Female","city":"Delhi","height":5.7,"weight":75,"bmi":23.0},
+ "4": {"name": "Bob Brown", "age": 35, "gender": "Male","city":"Chennai","height":6.0,"weight":80,"bmi":27.0},
+ "5": {"name": "Charlie Davis", "age": 28, "gender": "Male","city":"Kolkata","height":5.8,"weight":70,"bmi":24.0}}
